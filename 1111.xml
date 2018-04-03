@@ -1,0 +1,14 @@
+﻿<command id="_Colors">
+	<description>_Colors</description>
+	<categories/>
+	<comments/>
+	<icon systemiconid="-1"/>
+	<commandClass>2</commandClass>
+	<commandType>script</commandType>
+	<shellCommand>open</shellCommand>
+	<commandLine/>
+	<executeEverywhere>false</executeEverywhere>
+	<shortKey>0</shortKey>
+	<roleDefs/>
+	<files/>
+</command>
